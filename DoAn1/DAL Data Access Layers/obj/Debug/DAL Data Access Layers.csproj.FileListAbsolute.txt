@@ -1,0 +1,30 @@
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.csproj.AssemblyReference.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.csproj.CoreCompileInputs.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Debug\DAL Data Access Layers.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Debug\DAL Data Access Layers.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Debug\DTO Data Transfer Object.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Debug\EntityFramework.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Debug\DTO Data Transfer Object.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Debug\DTO Data Transfer Object.dll.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Debug\EntityFramework.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.csproj.CopyComplete
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Debug\DAL Data Access Layers.dll.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Debug\EntityFramework.SqlServer.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAn1\DAL Data Access Layers\bin\Debug\DAL Data Access Layers.dll.config
+D:\DoAn1\DAL Data Access Layers\bin\Debug\DAL Data Access Layers.dll
+D:\DoAn1\DAL Data Access Layers\bin\Debug\DAL Data Access Layers.pdb
+D:\DoAn1\DAL Data Access Layers\bin\Debug\DTO Data Transfer Object.dll
+D:\DoAn1\DAL Data Access Layers\bin\Debug\EntityFramework.dll
+D:\DoAn1\DAL Data Access Layers\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAn1\DAL Data Access Layers\bin\Debug\DTO Data Transfer Object.pdb
+D:\DoAn1\DAL Data Access Layers\bin\Debug\DTO Data Transfer Object.dll.config
+D:\DoAn1\DAL Data Access Layers\bin\Debug\EntityFramework.xml
+D:\DoAn1\DAL Data Access Layers\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.csproj.AssemblyReference.cache
+D:\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.csproj.CoreCompileInputs.cache
+D:\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data.1A9B9FC7.Up2Date
+D:\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.dll
+D:\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.pdb

@@ -1,0 +1,105 @@
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\GUI Graphical User Interface.exe.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\GUI Graphical User Interface.exe
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\GUI Graphical User Interface.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\BLL Business Logic Layer.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu_UI_v1.5.3.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\DTO Data Transfer Object.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Guna.UI2.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\EntityFramework.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\BLL Business Logic Layer.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\DTO Data Transfer Object.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\DTO Data Transfer Object.dll.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuButton.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu_UI_v1.5.3.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\EntityFramework.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI Graphical User Interface.csproj.AssemblyReference.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI Graphical User Interface.csproj.SuggestedBindingRedirects.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI_Graphical_User_Interface.frmBanHang.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI_Graphical_User_Interface.frmDangNhap.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI_Graphical_User_Interface.frmHome.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI_Graphical_User_Interface.frmKhachHangThanhVien.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI_Graphical_User_Interface.frmNhanVien.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI_Graphical_User_Interface.frmTruyen.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI_Graphical_User_Interface.Properties.Resources.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI Graphical User Interface.csproj.GenerateResource.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI Graphical User Interface.csproj.CoreCompileInputs.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI Graphical User Interface.csproj.CopyComplete
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI Graphical User Interface.exe
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI Graphical User Interface.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\SqlServerTypes\x64\msvcr120.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\SqlServerTypes\x86\msvcr120.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\rpTop5NV.rdlc
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\rpTop5Truyen.rdlc
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Microsoft.ReportViewer.Design.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Microsoft.SqlServer.Types.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\DAL Data Access Layers.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\EnvDTE.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\stdole.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Microsoft.MSXML.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\DAL Data Access Layers.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\DAL Data Access Layers.dll.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI_Graphical_User_Interface.frmThongKe.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI_Graphical_User_Interface.frmHoaDonBan.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI_Graphical_User_Interface.frmHoaDonNhap.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI_Graphical_User_Interface.frmNhapHang.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI_Graphical_User_Interface.truyen.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Release\GUI_Graphical_User_Interface.truyennhap.resources

@@ -1,0 +1,30 @@
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\obj\Debug\BLL Business Logic Layer.csproj.AssemblyReference.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\obj\Debug\BLL Business Logic Layer.csproj.CoreCompileInputs.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Debug\BLL Business Logic Layer.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Debug\BLL Business Logic Layer.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Debug\DAL Data Access Layers.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Debug\DTO Data Transfer Object.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Debug\EntityFramework.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Debug\DAL Data Access Layers.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Debug\DTO Data Transfer Object.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Debug\DTO Data Transfer Object.dll.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Debug\EntityFramework.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\obj\Debug\BLL Business Logic Layer.csproj.CopyComplete
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\obj\Debug\BLL Business Logic Layer.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\obj\Debug\BLL Business Logic Layer.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Debug\DAL Data Access Layers.dll.config
+D:\DoAn1\BLL Business Logic Layer\bin\Debug\BLL Business Logic Layer.dll
+D:\DoAn1\BLL Business Logic Layer\bin\Debug\BLL Business Logic Layer.pdb
+D:\DoAn1\BLL Business Logic Layer\bin\Debug\DAL Data Access Layers.dll
+D:\DoAn1\BLL Business Logic Layer\bin\Debug\DTO Data Transfer Object.dll
+D:\DoAn1\BLL Business Logic Layer\bin\Debug\EntityFramework.dll
+D:\DoAn1\BLL Business Logic Layer\bin\Debug\DAL Data Access Layers.pdb
+D:\DoAn1\BLL Business Logic Layer\bin\Debug\DAL Data Access Layers.dll.config
+D:\DoAn1\BLL Business Logic Layer\bin\Debug\DTO Data Transfer Object.pdb
+D:\DoAn1\BLL Business Logic Layer\bin\Debug\DTO Data Transfer Object.dll.config
+D:\DoAn1\BLL Business Logic Layer\bin\Debug\EntityFramework.xml
+D:\DoAn1\BLL Business Logic Layer\obj\Debug\BLL Business Logic Layer.csproj.AssemblyReference.cache
+D:\DoAn1\BLL Business Logic Layer\obj\Debug\BLL Business Logic Layer.csproj.CoreCompileInputs.cache
+D:\DoAn1\BLL Business Logic Layer\obj\Debug\BLL Busi.763DB889.Up2Date
+D:\DoAn1\BLL Business Logic Layer\obj\Debug\BLL Business Logic Layer.dll
+D:\DoAn1\BLL Business Logic Layer\obj\Debug\BLL Business Logic Layer.pdb

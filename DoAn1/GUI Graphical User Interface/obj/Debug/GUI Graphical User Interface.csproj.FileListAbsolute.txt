@@ -1,0 +1,297 @@
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.AssemblyReference.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.SuggestedBindingRedirects.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.FrmDangNhap.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.Properties.Resources.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.GenerateResource.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.CoreCompileInputs.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\GUI Graphical User Interface.exe.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\GUI Graphical User Interface.exe
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\GUI Graphical User Interface.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\BLL Business Logic Layer.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\DTO Data Transfer Object.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Guna.UI2.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\EntityFramework.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\BLL Business Logic Layer.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\DTO Data Transfer Object.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\DTO Data Transfer Object.dll.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\EntityFramework.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.CopyComplete
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.exe
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmBanHang.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmHome.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmKhachHangThanhVien.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmNhanVien.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmTruyen.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmHoaDonNhap.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\DAL Data Access Layers.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\DAL Data Access Layers.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\DAL Data Access Layers.dll.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmHoaDonBan.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.truyen.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmNhapHang.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.truyennhap.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\EnvDTE.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\stdole.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Microsoft.MSXML.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\rpTop5Truyen.rdlc
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmThongKe.resources
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\rpTop5NV.rdlc
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\rpTop5NV.rdlc
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\rpTop5Truyen.rdlc
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\GUI Graphical User Interface.exe.config
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\GUI Graphical User Interface.exe
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\GUI Graphical User Interface.pdb
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\BLL Business Logic Layer.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\DTO Data Transfer Object.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Guna.UI2.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\DAL Data Access Layers.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\EntityFramework.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\EnvDTE.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\stdole.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.MSXML.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\BLL Business Logic Layer.pdb
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\DTO Data Transfer Object.pdb
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\DTO Data Transfer Object.dll.config
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\DAL Data Access Layers.pdb
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\DAL Data Access Layers.dll.config
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\EntityFramework.xml
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.AssemblyReference.cache
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.SuggestedBindingRedirects.cache
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmBanHang.resources
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmThongKe.resources
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmDangNhap.resources
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmHoaDonBan.resources
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmHoaDonNhap.resources
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmHome.resources
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmKhachHangThanhVien.resources
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmNhanVien.resources
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmTruyen.resources
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmNhapHang.resources
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.Properties.Resources.resources
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.truyen.resources
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.truyennhap.resources
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.GenerateResource.cache
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.CoreCompileInputs.cache
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.CopyComplete
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.exe
+E:\DoAn1\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.pdb
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\rpTop5NV.rdlc
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\rpTop5Truyen.rdlc
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\GUI Graphical User Interface.exe.config
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\GUI Graphical User Interface.exe
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\GUI Graphical User Interface.pdb
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\BLL Business Logic Layer.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\DTO Data Transfer Object.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\Guna.UI2.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\DAL Data Access Layers.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\EntityFramework.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\EnvDTE.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\stdole.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\BLL Business Logic Layer.pdb
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\DTO Data Transfer Object.pdb
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\DTO Data Transfer Object.dll.config
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\DAL Data Access Layers.pdb
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\DAL Data Access Layers.dll.config
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\EntityFramework.xml
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.AssemblyReference.cache
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmBanHang.resources
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmThongKe.resources
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmDangNhap.resources
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmHoaDonBan.resources
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmHoaDonNhap.resources
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmHome.resources
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmKhachHangThanhVien.resources
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmNhanVien.resources
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmTruyen.resources
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmNhapHang.resources
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.Properties.Resources.resources
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.truyen.resources
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.truyennhap.resources
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.GenerateResource.cache
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.CoreCompileInputs.cache
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Grap.9F5B7274.Up2Date
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.exe
+D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.pdb

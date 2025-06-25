@@ -1,0 +1,24 @@
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.csproj.AssemblyReference.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.csproj.CoreCompileInputs.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DTO Data Transfer Object\bin\Debug\DTO Data Transfer Object.dll.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DTO Data Transfer Object\bin\Debug\DTO Data Transfer Object.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DTO Data Transfer Object\bin\Debug\DTO Data Transfer Object.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DTO Data Transfer Object\bin\Debug\EntityFramework.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DTO Data Transfer Object\bin\Debug\EntityFramework.SqlServer.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DTO Data Transfer Object\bin\Debug\EntityFramework.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DTO Data Transfer Object\bin\Debug\EntityFramework.SqlServer.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.csproj.CopyComplete
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.pdb
+D:\DoAn1\DTO Data Transfer Object\bin\Debug\DTO Data Transfer Object.dll.config
+D:\DoAn1\DTO Data Transfer Object\bin\Debug\DTO Data Transfer Object.dll
+D:\DoAn1\DTO Data Transfer Object\bin\Debug\DTO Data Transfer Object.pdb
+D:\DoAn1\DTO Data Transfer Object\bin\Debug\EntityFramework.dll
+D:\DoAn1\DTO Data Transfer Object\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAn1\DTO Data Transfer Object\bin\Debug\EntityFramework.xml
+D:\DoAn1\DTO Data Transfer Object\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.csproj.AssemblyReference.cache
+D:\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.csproj.CoreCompileInputs.cache
+D:\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data.15A6D98A.Up2Date
+D:\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.dll
+D:\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.pdb

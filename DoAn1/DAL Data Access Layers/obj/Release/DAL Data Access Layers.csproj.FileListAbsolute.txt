@@ -1,0 +1,15 @@
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Release\DAL Data Access Layers.dll.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Release\DAL Data Access Layers.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Release\DAL Data Access Layers.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Release\DTO Data Transfer Object.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Release\EntityFramework.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Release\EntityFramework.SqlServer.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Release\DTO Data Transfer Object.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Release\DTO Data Transfer Object.dll.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Release\EntityFramework.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\bin\Release\EntityFramework.SqlServer.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\obj\Release\DAL Data Access Layers.csproj.AssemblyReference.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\obj\Release\DAL Data Access Layers.csproj.CoreCompileInputs.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\obj\Release\DAL Data Access Layers.csproj.CopyComplete
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\obj\Release\DAL Data Access Layers.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\DAL Data Access Layers\obj\Release\DAL Data Access Layers.pdb

@@ -1,0 +1,15 @@
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Release\BLL Business Logic Layer.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Release\BLL Business Logic Layer.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Release\DAL Data Access Layers.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Release\DTO Data Transfer Object.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Release\EntityFramework.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Release\DAL Data Access Layers.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Release\DAL Data Access Layers.dll.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Release\DTO Data Transfer Object.pdb
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Release\DTO Data Transfer Object.dll.config
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\bin\Release\EntityFramework.xml
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\obj\Release\BLL Business Logic Layer.csproj.AssemblyReference.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\obj\Release\BLL Business Logic Layer.csproj.CoreCompileInputs.cache
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\obj\Release\BLL Business Logic Layer.csproj.CopyComplete
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\obj\Release\BLL Business Logic Layer.dll
+E:\Đồ án 1\Quản lý cửa hàng bán truyện tranh\BLL Business Logic Layer\obj\Release\BLL Business Logic Layer.pdb

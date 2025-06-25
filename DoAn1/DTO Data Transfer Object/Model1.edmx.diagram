@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="abcd76d567d843e88be568e358c7a148" Name="Diagram1" ZoomLevel="64">
+        <EntityTypeShape EntityType="DinhThienTruong_DoAn1Model.HoaDonBan" Width="1.875" PointX="6.5" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DinhThienTruong_DoAn1Model.HoaDonNhap" Width="1.75" PointX="12.125" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DinhThienTruong_DoAn1Model.KhachHangThanhVien" Width="1.875" PointX="9.5" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DinhThienTruong_DoAn1Model.Luong" Width="1.5" PointX="14.875" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DinhThienTruong_DoAn1Model.NhanVien" Width="1.5" PointX="12.375" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DinhThienTruong_DoAn1Model.sysdiagram" Width="1.5" PointX="15" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DinhThienTruong_DoAn1Model.TheLoai" Width="1.5" PointX="4.375" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="DinhThienTruong_DoAn1Model.Truyen" Width="1.75" PointX="6.5" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DinhThienTruong_DoAn1Model.ChiTietHoaDonBan" Width="1.5" PointX="4.125" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DinhThienTruong_DoAn1Model.ChiTietHoaDonNhap" Width="1.75" PointX="9.375" PointY="2.5" IsExpanded="true" />
+        <AssociationConnector Association="DinhThienTruong_DoAn1Model.FK__ChiTietHo__MaHoa__25869641" ManuallyRouted="false" />
+        <AssociationConnector Association="DinhThienTruong_DoAn1Model.FK__HoaDonBan__MaKHT__22AA2996" ManuallyRouted="false" />
+        <AssociationConnector Association="DinhThienTruong_DoAn1Model.FK__HoaDonBan__MaKHT__239E4DCF" ManuallyRouted="false" />
+        <AssociationConnector Association="DinhThienTruong_DoAn1Model.FK__ChiTietHo__MaHoa__1DE57479" ManuallyRouted="false" />
+        <AssociationConnector Association="DinhThienTruong_DoAn1Model.FK__HoaDonNha__MaNha__1BFD2C07" ManuallyRouted="false" />
+        <AssociationConnector Association="DinhThienTruong_DoAn1Model.FK__Luong__Nam__2B3F6F97" ManuallyRouted="false" />
+        <AssociationConnector Association="DinhThienTruong_DoAn1Model.FK__Truyen__Gia__145C0A3F" ManuallyRouted="false" />
+        <AssociationConnector Association="DinhThienTruong_DoAn1Model.FK__ChiTietHo__MaTru__1ED998B2" ManuallyRouted="false" />
+        <AssociationConnector Association="DinhThienTruong_DoAn1Model.FK__ChiTietHo__MaTru__267ABA7A" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
