@@ -22,3 +22,15 @@ D:\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.csproj.Core
 D:\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data.15A6D98A.Up2Date
 D:\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.dll
 D:\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.pdb
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DTO Data Transfer Object\bin\Debug\DTO Data Transfer Object.dll.config
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DTO Data Transfer Object\bin\Debug\DTO Data Transfer Object.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DTO Data Transfer Object\bin\Debug\DTO Data Transfer Object.pdb
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DTO Data Transfer Object\bin\Debug\EntityFramework.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DTO Data Transfer Object\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DTO Data Transfer Object\bin\Debug\EntityFramework.xml
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DTO Data Transfer Object\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.csproj.AssemblyReference.cache
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.csproj.CoreCompileInputs.cache
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data.15A6D98A.Up2Date
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DTO Data Transfer Object\obj\Debug\DTO Data Transfer Object.pdb

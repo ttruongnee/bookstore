@@ -295,3 +295,90 @@ D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csp
 D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Grap.9F5B7274.Up2Date
 D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.exe
 D:\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.pdb
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\rpTop5NV.rdlc
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\rpTop5Truyen.rdlc
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\GUI Graphical User Interface.exe.config
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\GUI Graphical User Interface.exe
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\GUI Graphical User Interface.pdb
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\BLL Business Logic Layer.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\DTO Data Transfer Object.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\Guna.UI2.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\DAL Data Access Layers.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\EntityFramework.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\EnvDTE.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\stdole.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\BLL Business Logic Layer.pdb
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\DTO Data Transfer Object.pdb
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\DTO Data Transfer Object.dll.config
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\DAL Data Access Layers.pdb
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\DAL Data Access Layers.dll.config
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\EntityFramework.xml
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.AssemblyReference.cache
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmBanHang.resources
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmThongKe.resources
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmDangNhap.resources
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmHoaDonBan.resources
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmHoaDonNhap.resources
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmHome.resources
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmKhachHangThanhVien.resources
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmNhanVien.resources
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmTruyen.resources
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.frmNhapHang.resources
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.Properties.Resources.resources
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.truyen.resources
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI_Graphical_User_Interface.truyennhap.resources
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.GenerateResource.cache
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.csproj.CoreCompileInputs.cache
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Grap.9F5B7274.Up2Date
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.exe
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\GUI Graphical User Interface\obj\Debug\GUI Graphical User Interface.pdb

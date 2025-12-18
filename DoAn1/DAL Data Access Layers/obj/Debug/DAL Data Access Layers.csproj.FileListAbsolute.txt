@@ -28,3 +28,18 @@ D:\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.csproj.CoreComp
 D:\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data.1A9B9FC7.Up2Date
 D:\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.dll
 D:\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.pdb
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\bin\Debug\DAL Data Access Layers.dll.config
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\bin\Debug\DAL Data Access Layers.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\bin\Debug\DAL Data Access Layers.pdb
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\bin\Debug\DTO Data Transfer Object.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\bin\Debug\EntityFramework.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\bin\Debug\DTO Data Transfer Object.pdb
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\bin\Debug\DTO Data Transfer Object.dll.config
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\bin\Debug\EntityFramework.xml
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.csproj.AssemblyReference.cache
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.csproj.CoreCompileInputs.cache
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data.1A9B9FC7.Up2Date
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.dll
+C:\Users\dinht\Downloads\trash\bookstore\DoAn1\DAL Data Access Layers\obj\Debug\DAL Data Access Layers.pdb

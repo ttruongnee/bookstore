@@ -1,77 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DoAn1\\DoAn1\\",
+  "WorkspaceRootPath": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|d:\\doan1\\doan1\\gui graphical user interface\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\truyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\truyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmkhachhangthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmkhachhangthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmkhachhangthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmkhachhangthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmnhaphang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmnhaphang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA034C9A-BBDD-4FA7-BDDD-CE28AA5A7826}|DAL Data Access Layers\\DAL Data Access Layers.csproj|D:\\DoAn1\\DoAn1\\dal data access layers\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA034C9A-BBDD-4FA7-BDDD-CE28AA5A7826}|DAL Data Access Layers\\DAL Data Access Layers.csproj|solutionrelative:dal data access layers\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|D:\\DoAn1\\DoAn1\\gui graphical user interface\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|c:\\users\\dinht\\downloads\\trash\\bookstore\\doan1\\gui graphical user interface\\frmtruyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmtruyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|c:\\users\\dinht\\downloads\\trash\\bookstore\\doan1\\gui graphical user interface\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\truyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\truyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmhoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmkhachhangthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmkhachhangthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmkhachhangthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmkhachhangthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmnhaphang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmnhaphang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA034C9A-BBDD-4FA7-BDDD-CE28AA5A7826}|DAL Data Access Layers\\DAL Data Access Layers.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\dal data access layers\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA034C9A-BBDD-4FA7-BDDD-CE28AA5A7826}|DAL Data Access Layers\\DAL Data Access Layers.csproj|solutionrelative:dal data access layers\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\gui graphical user interface\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4A8D7DD2-913B-4BCE-8EFE-A3D8C1CFCB2A}|GUI Graphical User Interface\\GUI Graphical User Interface.csproj|solutionrelative:gui graphical user interface\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -82,28 +86,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmNhapHang.cs",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmNhapHang.cs",
-              "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmNhapHang.cs",
-              "ToolTip": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmNhapHang.cs",
-              "RelativeToolTip": "GUI Graphical User Interface\\frmNhapHang.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAvwB4AAAAnAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "frmTruyen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmTruyen.cs",
+              "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmTruyen.cs",
+              "ToolTip": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmTruyen.cs [Design]",
+              "RelativeToolTip": "GUI Graphical User Interface\\frmTruyen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T16:41:28.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T02:23:49.922Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "frmBanHang.cs [Design]",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmBanHang.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmBanHang.cs",
-              "ToolTip": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmBanHang.cs [Design]",
+              "ToolTip": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmBanHang.cs [Design]",
               "RelativeToolTip": "GUI Graphical User Interface\\frmBanHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T16:39:06.506Z",
@@ -111,36 +114,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "frmBanHang.cs",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmBanHang.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmBanHang.cs",
-              "ToolTip": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmBanHang.cs",
+              "ToolTip": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmBanHang.cs",
               "RelativeToolTip": "GUI Graphical User Interface\\frmBanHang.cs",
-              "ViewState": "AgIAALMAAAAAAAAAAAAqwLoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAALMAAAAAAAAAAAAqwMoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T16:38:53.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "frmNhapHang.cs [Design]",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmNhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmNhapHang.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmNhapHang.cs",
               "ToolTip": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmNhapHang.cs [Design]",
-              "RelativeToolTip": "GUI Graphical User Interface\\frmNhapHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T16:12:14.579Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-26T16:12:14.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "frmHoaDonNhap.cs",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmHoaDonNhap.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmHoaDonNhap.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmHoaDonNhap.cs",
-              "ToolTip": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmHoaDonNhap.cs",
+              "ToolTip": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmHoaDonNhap.cs",
               "RelativeToolTip": "GUI Graphical User Interface\\frmHoaDonNhap.cs",
               "ViewState": "AgIAAIsAAAAAAAAAAAAawKwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,45 +149,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmThongKe.cs [Design]",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmThongKe.cs",
-              "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmThongKe.cs",
-              "ToolTip": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmThongKe.cs [Design]",
-              "RelativeToolTip": "GUI Graphical User Interface\\frmThongKe.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "GUI Graphical User Interface\\frmNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T16:12:14.58Z",
+              "WhenOpened": "2025-04-26T16:12:14.581Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "frmNhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmNhapHang.cs",
+              "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmNhapHang.cs",
+              "ToolTip": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmNhapHang.cs",
+              "RelativeToolTip": "GUI Graphical User Interface\\frmNhapHang.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAvwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:41:28.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmThongKe.cs",
+              "ToolTip": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:12:14.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "frmDangNhap.cs [Design]",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmDangNhap.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmDangNhap.cs",
               "ToolTip": "D:\\DoAn1\\GUI Graphical User Interface\\frmDangNhap.cs [Design]",
-              "RelativeToolTip": "..\\GUI Graphical User Interface\\frmDangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T16:12:14.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "frmHoaDonNhap.cs [Design]",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmHoaDonNhap.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmHoaDonNhap.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmHoaDonNhap.cs",
               "ToolTip": "D:\\DoAn1\\GUI Graphical User Interface\\frmHoaDonNhap.cs [Design]",
-              "RelativeToolTip": "..\\GUI Graphical User Interface\\frmHoaDonNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T16:12:14.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "truyen.cs",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\truyen.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\truyen.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\truyen.cs",
-              "ToolTip": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\truyen.cs",
+              "ToolTip": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\truyen.cs",
               "RelativeToolTip": "GUI Graphical User Interface\\truyen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,22 +215,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "frmHoaDonBan.cs [Design]",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmHoaDonBan.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmHoaDonBan.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmHoaDonBan.cs",
               "ToolTip": "D:\\DoAn1\\GUI Graphical User Interface\\frmHoaDonBan.cs [Design]",
-              "RelativeToolTip": "..\\GUI Graphical User Interface\\frmHoaDonBan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T16:12:14.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "frmHoaDonBan.cs",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmHoaDonBan.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmHoaDonBan.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmHoaDonBan.cs",
-              "ToolTip": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmHoaDonBan.cs",
+              "ToolTip": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmHoaDonBan.cs",
               "RelativeToolTip": "GUI Graphical User Interface\\frmHoaDonBan.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAwEkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -217,11 +237,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "frmKhachHangThanhVien.cs",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmKhachHangThanhVien.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmKhachHangThanhVien.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmKhachHangThanhVien.cs",
-              "ToolTip": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmKhachHangThanhVien.cs",
+              "ToolTip": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmKhachHangThanhVien.cs",
               "RelativeToolTip": "GUI Graphical User Interface\\frmKhachHangThanhVien.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,35 +249,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "frmKhachHangThanhVien.cs [Design]",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmKhachHangThanhVien.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmKhachHangThanhVien.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmKhachHangThanhVien.cs",
               "ToolTip": "D:\\DoAn1\\GUI Graphical User Interface\\frmKhachHangThanhVien.cs [Design]",
-              "RelativeToolTip": "..\\GUI Graphical User Interface\\frmKhachHangThanhVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T16:33:54.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "frmNhapHang.Designer.cs",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmNhapHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmNhapHang.Designer.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmNhapHang.Designer.cs",
-              "ToolTip": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmNhapHang.Designer.cs",
+              "ToolTip": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmNhapHang.Designer.cs",
               "RelativeToolTip": "GUI Graphical User Interface\\frmNhapHang.Designer.cs",
               "ViewState": "AgIAAAQBAAAAAAAAAAAuwBoBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T16:29:51.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T16:29:51.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "DataProvider.cs",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\DAL Data Access Layers\\DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\DAL Data Access Layers\\DataProvider.cs",
               "RelativeDocumentMoniker": "DAL Data Access Layers\\DataProvider.cs",
-              "ToolTip": "D:\\DoAn1\\DoAn1\\DAL Data Access Layers\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\DAL Data Access Layers\\DataProvider.cs",
               "RelativeToolTip": "DAL Data Access Layers\\DataProvider.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAiwBsAAACNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -265,11 +283,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\Program.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\Program.cs",
-              "ToolTip": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\Program.cs",
+              "ToolTip": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\Program.cs",
               "RelativeToolTip": "GUI Graphical User Interface\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -277,19 +295,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "frmNhanVien.cs [Design]",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmNhanVien.cs",
-              "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmNhanVien.cs",
-              "ToolTip": "E:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmNhanVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2025-04-26T16:12:14.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "frmHome.cs [Design]",
-              "DocumentMoniker": "D:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmHome.cs",
+              "DocumentMoniker": "C:\\Users\\dinht\\Downloads\\trash\\bookstore\\DoAn1\\GUI Graphical User Interface\\frmHome.cs",
               "RelativeDocumentMoniker": "GUI Graphical User Interface\\frmHome.cs",
               "ToolTip": "E:\\DoAn1\\DoAn1\\GUI Graphical User Interface\\frmHome.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
